@@ -39,7 +39,7 @@ Continual Learning entails progressively acquiring knowledge from new data while
 ![The Network](assets/CVPR_Workshop_2025.jpg)
 
 # Dataset: 
-- We used multiple datasets such as CIFAR-10, CIFAR-100, CINIC-10, SVHN and TinyImageNet
+We used multiple datasets such as CIFAR-10, CIFAR-100, CINIC-10, SVHN and TinyImageNet
 
 Links to the datasets can be found below:
 
