@@ -41,6 +41,13 @@ Continual Learning entails progressively acquiring knowledge from new data while
 # Dataset: 
 - We used multiple datasets such as CIFAR-10, CIFAR-100, CINIC-10, SVHN and TinyImageNet
 
+Links to the datasets can be found below:
+
+- CIFAR - 10: https://www.cs.toronto.edu/~kriz/cifar.html
+- CIFAR - 100: https://www.cs.toronto.edu/~kriz/cifar.html
+- CINIC - 100: https://paperswithcode.com/dataset/cinic-10
+- SVHN: http://ufldl.stanford.edu/housenumbers/
+- TinyImagNet: https://huggingface.co/datasets/zh-plus/tiny-imagenet
 
 ## Software requirements:
 
@@ -50,3 +57,23 @@ Continual Learning entails progressively acquiring knowledge from new data while
 - To download the dependencies: **!pip install -r requirements.txt**
 
 - The code can be run on any PC.
+
+## 📧Contact
+
+If you have any questions, please  contact us at [mc9991@srmist.edu.in](mailto:mc9991@srmist.edu.in).
+
+## 📌 BibTeX & Citation
+
+If you find this code useful, please consider citing our work:
+
+```bibtex
+@misc{mandalika2025replayrememberr2refficient,
+      title={Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay}, 
+      author={Sriram Mandalika and Harsha Vardhan and Athira Nambiar},
+      year={2025},
+      eprint={2505.04787},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.04787}, 
+}
+```
