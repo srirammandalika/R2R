@@ -2,7 +2,7 @@
   <div>
   <h1>Replay to Remember (R2R): An Efficient Uncertainty-driven Unsupervised Continual Learning Framework Using Generative Replay</h1> 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=srirammandalika.Precognition-CVPR_2025&left_color=green&right_color=red) [![arXiv](https://img.shields.io/badge/https://arxiv.org/abs/2505.04787?logo=arxiv&style=flat-square)]()
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srirammandalika.Precognition-CVPR_2025&left_color=green&right_color=red) [![arXiv](https://img.shields.io/badge/arxiv.org/abs/2505.04787?logo=arxiv&style=flat-square)]()
 
   </div>
 
