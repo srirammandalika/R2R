@@ -62,7 +62,7 @@ Links to the datasets can be found below:
 
 If you have any questions, please  contact us at [mc9991@srmist.edu.in](mailto:mc9991@srmist.edu.in).
 
-## 📌 BibTeX & Citation
+## BibTeX & Citation
 
 If you find this code useful, please consider citing our work:
 
