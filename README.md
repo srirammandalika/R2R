@@ -65,8 +65,7 @@ If you have any questions, please  contact us at [mc9991@srmist.edu.in](mailto:m
 
 >
 > **Disclaimer:**  
-> This code was used for internal experimentation and rapid prototyping. While it implements the core components of the R2R method, certain modules (especially in the final evaluation/replay loop) may require adaptation or fine-tuning to exactly reproduce the results reported in the paper.
-
+> This code was used for internal experimentation and rapid prototyping. While it implements the core components of the R2R method, certain modules  may require adaptation or fine-tuning.
 
 ## BibTeX & Citation
 
