@@ -62,6 +62,15 @@ Links to the datasets can be found below:
 
 If you have any questions, please  contact us at [mc9991@srmist.edu.in](mailto:mc9991@srmist.edu.in).
 
+<div style="color:gray; font-size:small;">
+
+## ❗ Disclaimer
+
+**Disclaimer:**  
+This code was used for internal experimentation and rapid prototyping. While it implements the core components of the R2R method, certain modules (especially in the final evaluation/replay loop) may require adaptation or fine-tuning to exactly reproduce the results reported in the paper.
+
+</div>
+
 ## BibTeX & Citation
 
 If you find this code useful, please consider citing our work:
